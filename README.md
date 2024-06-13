@@ -7,11 +7,15 @@ Bilgisayar dünyasında, birden fazla programın aynı anda çalışabilmesini s
 
 İşletim sistemleri, farklı türdeki programları verimli bir şekilde çalıştırabilme kapasitesine sahiptir. Bu sistemler, genellikle iki ana kategoriye ayrılır: batch sistemleri ve time-shared sistemler.
 
-#### Batch Sistemleri: 
-Bu tür sistemlerde işler (jobs) toplu olarak işlenir. Kullanıcılar, işlerini bir sıraya koyar ve işletim sistemi bu işleri birer birer işler. Batch sistemlerinde, kullanıcıların işleri doğrudan etkileşime girmeden ardışık olarak yürütülür. Bu yöntem, işlerin toplu olarak ve belirli bir sıraya göre işlenmesini sağlar. Örneğin, büyük veri analizleri veya toplu raporlamalar genellikle batch sistemleri ile gerçekleştirilir.
+ #### Batch Sistemleri: 
+ Bu tür sistemlerde işler (jobs) toplu olarak işlenir. Kullanıcılar, işlerini bir sıraya koyar ve işletim sistemi bu işleri birer birer işler. Batch sistemlerinde, kullanıcıların işleri doğrudan  etkileşime girmeden ardışık olarak yürütülür. Bu yöntem, işlerin toplu olarak ve belirli bir sıraya göre işlenmesini sağlar. Örneğin, büyük veri analizleri veya toplu raporlamalar genellikle    
+ batch sistemleri ile gerçekleştirilir.
 
-#### Time-Shared Sistemler: 
-Bu sistemler, kullanıcı programları veya görevlerin eşzamanlı olarak yürütüldüğü sistemlerdir. Time-shared sistemlerde, işletim sistemi CPU zamanını dilimlere bölerek her bir programa veya kullanıcıya tahsis eder. Bu, kullanıcıların sistemle etkileşimde bulunurken anında geri bildirim almalarını sağlar. Kullanıcıların aynı anda birden fazla programı çalıştırabilmesi ve bu programlar arasında hızlı geçiş yapabilmesi, time-shared sistemlerin önemli bir avantajıdır. Örneğin, modern işletim sistemlerinde birden fazla uygulamanın aynı anda açık olması ve kullanılabilmesi time-sharing ile mümkün kılınır.
+ #### Time-Shared Sistemler: 
+ Bu sistemler, kullanıcı programları veya görevlerin eşzamanlı olarak yürütüldüğü sistemlerdir. Time-shared sistemlerde, işletim sistemi CPU zamanını dilimlere bölerek her bir programa veya   
+ kullanıcıya tahsis eder. Bu, kullanıcıların sistemle etkileşimde bulunurken anında geri bildirim almalarını sağlar. Kullanıcıların aynı anda birden fazla programı çalıştırabilmesi ve bu  
+ programlar arasında hızlı geçiş yapabilmesi, time-shared sistemlerin önemli bir avantajıdır. Örneğin, modern işletim sistemlerinde birden fazla uygulamanın aynı anda açık olması ve  
+ kullanılabilmesi time-sharing ile mümkün kılınır.
 
 
 # Learn More
